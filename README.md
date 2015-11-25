@@ -1,7 +1,7 @@
 DangerZone 
 ==========
 
-DangerZone is a web server installation script.  
+DangerZone is a collection of server side scripts used for Web Server Installation to Schedule backups. 
 
 Contributing
 ------------
